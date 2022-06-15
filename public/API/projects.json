@@ -1,0 +1,73 @@
+[
+    {
+
+        "picture": "https://i.ibb.co/WKMHcP1/agriculture.png",
+        "title": "Agriculture Product Selling system",
+        "live": "https://taja-jinis.web.app/?fbclid=IwAR0vHmXUcSufLBJw2Sk1XYxVvaUu8Uf89Uy80MyfrrMD8DLX6tCWa-sgHM0",
+        "client": "https://github.com/Niloy-Dey/taja-jinis-client-side",
+        "server": "https://github.com/Niloy-Dey/taja-jinis-server-side",
+
+        "description": "It's a demo website for online Agriculture product selling system. Here anyone can sell and buy their product any time.",
+        "technology": "React , Tailwind css, Daisyui component, Node js, Mongodb, Firebase Authentication",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+    },
+    {
+        "picture": "https://i.ibb.co/0nwhX0S/manufacture.png",
+        "title": "Manufacturing website",
+        "live": "https://manufacturing-website.web.app/home",
+        "client": "https://github.com/Niloy-Dey/assignment-12-manufacturer-website-client-side",
+        "server": "https://github.com/Niloy-Dey/assignment-12-manufacturer-website-server-side",
+
+        "description": "It’s a large amount of manufacturer website for online ware shop. Anyone can buy product and user can give their review.",
+        "technology": "React , Tailwind css, Daisyui component, Node js, Mongodb, Firebase Authentication",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+
+    },
+    {
+       
+        "picture": "https://i.ibb.co/2tdr4Cr/refregerator.png",
+        "title": "Refrigerator-world Website",
+        "live": "https://refrigerator-world.web.app/",
+        "client": "https://github.com/Niloy-Dey/assignment-11-warehouse-management-client-side",
+        "server": "https://github.com/Niloy-Dey/assignment-11-warehouse-management-server-side",
+
+        "description": "It is a online warehouse product selling website. A dealer  easily buy their product and save time and save money",
+        "technology": "React ,  Node js, Mongodb, Firebase Authentication, REACT Bootstrap.",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+
+    },
+    {
+       
+        "picture": "https://i.ibb.co/k2ZRZ95/health.png",
+        "title": "Health Services",
+        "live": "https://lighthearted-biscuit-5624a1.netlify.app/home",
+        "client": "https://github.com/Niloy-Dey/assignment-10-health-service",
+        "server": "",
+
+        "description": "It's a demo website for online Telemedicine services. Here anyone can get help for a Telemedicine help.",        
+        "technology": "REACT, Node.js, Express.js, MongoDB, Firebase Authentication",
+        "screenshot": [
+            "https://i.ibb.co/nDDDwnS/taarzan-src-1.png",
+            "https://i.ibb.co/ctB46Sk/taarzan-src-2.png",
+            "https://i.ibb.co/XyfHk5Y/taarzan-src-3.png",
+            "https://i.ibb.co/6XBSp5S/taarzan-src-4.png"
+        ]
+
+    } 
+   
+]
