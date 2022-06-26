@@ -5,9 +5,9 @@ import niloy from '../../../../Assets/Images/Profile/Niloy.jpeg'
 
 const AboutMe = () => {
     return (
-        <div className="py-5 aboutme-style bg-dark ">
+        <div className="pt-5 aboutme-style bg-dark ">
             <Container>
-                <h1 className="pt-5 text-warning">About Me</h1>
+                <h1 className="pt-5 mt-5 text-warning">About Me</h1>
                 <Row>
                     <Col>
                         <div className="py-5  ">
